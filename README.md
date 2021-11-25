@@ -7,7 +7,7 @@ Update:
 
 1. Add GUI Server Selector Lucky Network HUB
  
-2. Changing API Version from LearnSpigot2 (beacuse many Items, where my API and my LocalHost server version, didn't detected.)
+2. Changing API Version from LearnSpigot2 (beacuse many Items, where my API and my LocalHost spigot server version, didn't detected.)
 
 3. New Events and Commands 
 
