@@ -1,0 +1,14 @@
+me\amantaruby\main\Events\EventsClickGuiSelector.class
+me\amantaruby\main\commands\regenCommand.class
+me\amantaruby\main\CustomItems\CustomItems.class
+me\amantaruby\main\Events\EventsClick.class
+me\amantaruby\main\ACFly\ACFly.class
+me\amantaruby\main\Main.class
+me\amantaruby\main\CustomInventory.class
+me\amantaruby\main\commands\FlyCommands.class
+me\amantaruby\main\commands\GUICommands.class
+me\amantaruby\main\regen\regenClass.class
+me\amantaruby\main\Events\EventsClass.class
+me\amantaruby\main\RubyAPI.class
+me\amantaruby\main\Events\EventsClick$1.class
+me\amantaruby\main\Events\LoggerCommandsClass.class

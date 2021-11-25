@@ -1,0 +1,21 @@
+name: Main
+version: 1.0-SNAPSHOT
+main: me.amantaruby.main.Main
+api-version: 1.8.8
+
+commands:
+  fly:
+    usage: /<command>
+    description: this is a Flying Commands
+
+  heal:
+    usage: /<command>
+    description: this is a healing for developer.
+
+  gui:
+    usage: /<command>
+    description: this is a Open GUI Plugin made first times !
+
+  trygui:
+    usage: /<command>
+    description: trying GUI case for testing unlisted_practice_v2 second times.
